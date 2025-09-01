@@ -41,12 +41,40 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<!-- Hellhounds of the Cosmos, June 1932, Astounding Stories -->
+		<dc:source>https://www.gutenberg.org/ebooks/27013</dc:source>
+		<dc:source>https://archive.org/details/astounding-v-010-n-03-1932-06</dc:source>
+		<!-- The Street That Wasn’t There, July 1941, Comet -->
+		<dc:source>https://www.gutenberg.org/ebooks/22218</dc:source>
+		<dc:source>https://archive.org/details/Comet_v01n05_1941-07</dc:source>
+		<!-- Message from Mars, Fall 1943, Planet Stories -->
+		<dc:source>https://www.gutenberg.org/ebooks/62357</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v02n04_1943-Fall</dc:source>
+		<!-- Mr. Meek—Musketeer, Summer 1944, Planet Stories -->
+		<dc:source>https://www.gutenberg.org/ebooks/63046</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v02n07_1944-Summer</dc:source>
+		<!-- Mr. Meek Plays Polo, Fall 1944, Planet Stories -->
+		<dc:source>https://www.gutenberg.org/ebooks/63130</dc:source>
+		<dc:source>https://archive.org/details/Planet_Stories_v02n08_1944-Fall</dc:source>
+		<!-- The Call from Beyond, May 1950, Super Science Stories -->
+		<dc:source>https://www.gutenberg.org/ebooks/69308</dc:source>
+		<dc:source>https://archive.org/details/Super_Science_Stories_v06n04_1950-05_oak-wmfs</dc:source>
+		<!-- Second Childhood, February 1951, Galaxy Science Fiction -->
+		<dc:source>https://www.gutenberg.org/ebooks/51037</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v01n05_1951-02</dc:source>
+		<!-- Project Mastodon, March 1955, Galaxy Science Fiction -->
+		<dc:source>https://www.gutenberg.org/ebooks/22216</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v09n06_1955-03</dc:source>
+		<!-- The World That Couldn’t Be, January 1958, Galaxy Science Fiction -->
+		<dc:source>https://www.gutenberg.org/ebooks/32026</dc:source>
+		<dc:source>https://archive.org/details/Galaxy_v15n03_1958-01</dc:source>
+		<!-- The Shipshape Miracle, January 1963, Worlds of If -->
+		<dc:source>https://www.gutenberg.org/ebooks/61333</dc:source>
+		<dc:source>https://archive.org/details/1963-01_IF</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Clifford_D._Simak_bibliography</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/clifford-d-simak_short-fiction</meta>
 		<dc:creator id="author">Clifford D. Simak</dc:creator>
 		<meta property="file-as" refines="#author">Simak, Clifford D.</meta>
