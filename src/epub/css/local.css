@@ -1,8 +1,22 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+q{
+	font-style: italic;
+}
+
 #message-from-mars > blockquote > p{
+	font-variant: small-caps;
 	text-align: center;
 	text-indent: 0;
-	font-variant: small-caps;
+}
+
+#the-street-that-wasnt-there > blockquote,
+#mr-meek-plays-polo-1 > blockquote:nth-of-type(-n+2){
+	font-style: italic;
+}
+
+#the-call-from-beyond-1 > blockquote{
+	text-align: center;
+	text-indent: 0;
 }
