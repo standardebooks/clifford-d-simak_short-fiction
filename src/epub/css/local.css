@@ -1,2 +1,8 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+
+#message-from-mars > blockquote > p{
+	text-align: center;
+	text-indent: 0;
+	font-variant: small-caps;
+}
