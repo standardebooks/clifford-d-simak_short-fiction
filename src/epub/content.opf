@@ -82,6 +82,13 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">CONTRIBUTOR_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="contributor">Carl Jacobi</dc:contributor>
+		<meta property="file-as" refines="#contributor">Jacobi, Carl</meta>
+		<meta property="se:name.person.full-name" refines="#contributor">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#contributor">CONTRIBUTOR_WIKI_URL</meta>
+		<meta property="se:url.authority.nacoaf" refines="#contributor">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="role" refines="#contributor" scheme="marc:relators">ctb</meta>
+		<meta property="display-seq" refines="#contributor">0</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
