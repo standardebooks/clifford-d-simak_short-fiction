@@ -5,7 +5,11 @@ q{
 	font-style: italic;
 }
 
-#message-from-mars > blockquote > p{
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+
+#message-from-mars-3 > blockquote > p{
 	font-variant: small-caps;
 	text-align: center;
 	text-indent: 0;
