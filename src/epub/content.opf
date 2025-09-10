@@ -37,9 +37,11 @@
 		<meta property="se:subject">Science Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
 		<meta property="se:is-a-collection">true</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A collection of short fiction by Clifford D. Simak, ordered by date of original publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/clifford-d-simak"&gt;Clifford &lt;abbr&gt;D.&lt;/abbr&gt; Simak&lt;/a&gt; wrote novels and short fiction, mostly in the science fiction genre, from the 1930s through to the 1980s. With over 125 short stories and twenty-eight novels to his name, he was a prolific author. His stories won on several occasions the prestigious Hugo and Nebula awards, and he was a perennial nominee.&lt;/p&gt;
+			&lt;p&gt;His stories focus on the human scale more than typical space opera, though often with a tinge of horror to them. Included in the collection are stories of time travel, unreliable perceptions, and the difficulty in applying human understanding to different forms of life, among others.&lt;/p&gt;
+			&lt;p&gt;The short stories presented here are those currently known to have passed into the &lt;abbr&gt;U.S.&lt;/abbr&gt; public domain, arranged in order of publication.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- Hellhounds of the Cosmos, June 1932, Astounding Stories -->
