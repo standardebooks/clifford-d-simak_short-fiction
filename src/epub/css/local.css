@@ -9,18 +9,6 @@ q{
 	font-variant: small-caps;
 }
 
-#message-from-mars-3 > blockquote > p{
-	font-variant: small-caps;
+.sign{
 	text-align: center;
-	text-indent: 0;
-}
-
-#the-street-that-wasnt-there > blockquote,
-#mr-meek-plays-polo-1 > blockquote:nth-of-type(-n+2){
-	font-style: italic;
-}
-
-#the-call-from-beyond-1 > blockquote{
-	text-align: center;
-	text-indent: 0;
 }
