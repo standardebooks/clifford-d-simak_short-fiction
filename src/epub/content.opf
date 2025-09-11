@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/clifford-d-simak/short-fiction</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-09-11T19:05:22Z</dc:date>
+		<meta property="dcterms:modified">2025-09-11T19:05:22Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -40,9 +40,8 @@
 		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of short fiction by Clifford D. Simak, ordered by date of original publication.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/clifford-d-simak"&gt;Clifford &lt;abbr&gt;D.&lt;/abbr&gt; Simak&lt;/a&gt; wrote novels and short fiction, mostly in the science fiction genre, from the 1930s through to the 1980s. With over 125 short stories and twenty-eight novels to his name, he was a prolific author. His stories won on several occasions the prestigious Hugo and Nebula awards, and he was a perennial nominee.&lt;/p&gt;
-			&lt;p&gt;His stories focus on the human scale more than typical space opera, though often with a tinge of horror to them. Included in the collection are stories of time travel, unreliable perceptions, and the difficulty in applying human understanding to different forms of life, among others.&lt;/p&gt;
-			&lt;p&gt;The short stories presented here are those currently known to have passed into the &lt;abbr&gt;U.S.&lt;/abbr&gt; public domain, arranged in order of publication.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/clifford-d-simak"&gt;Clifford D. Simak&lt;/a&gt;, a prolific author of science fiction, wrote over 125 short stories. They often focus on the human scale more than the space opera scale, and are often tinged with horror. Included in this collection are stories of time travel, unreliable perceptions, and the difficulty in applying human understanding to different forms of life.&lt;/p&gt;
+			&lt;p&gt;The short stories in this collection are those currently known to have passed into the U.S. public domain, and are arranged in order of publication.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- Hellhounds of the Cosmos, June 1932, Astounding Stories -->
@@ -75,9 +74,8 @@
 		<!-- The Shipshape Miracle, January 1963, Worlds of If -->
 		<dc:source>https://www.gutenberg.org/ebooks/61333</dc:source>
 		<dc:source>https://archive.org/details/1963-01_IF</dc:source>
-		<meta property="se:production-notes">Unsemantic italics in “Message from Mars” and “Project Mastodon” are intentional.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">94055</meta>
+		<meta property="se:reading-ease.flesch">84.78</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Clifford_D._Simak_bibliography</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/clifford-d-simak_short-fiction</meta>
 		<dc:creator id="author">Clifford D. Simak</dc:creator>
@@ -127,6 +125,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
