@@ -90,7 +90,6 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#contributor">https://en.wikipedia.org/wiki/Carl_Richard_Jacobi</meta>
 		<meta property="se:url.authority.nacoaf" refines="#contributor">http://id.loc.gov/authorities/names/n85135767</meta>
 		<meta property="role" refines="#contributor" scheme="marc:relators">ctb</meta>
-		<meta property="display-seq" refines="#contributor">0</meta>
 		<dc:contributor id="artist">Georgia O’Keeffe</dc:contributor>
 		<meta property="file-as" refines="#artist">O’Keeffe, Georgia</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Georgia Totto O’Keeffe</meta>
