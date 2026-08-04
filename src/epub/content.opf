@@ -39,7 +39,7 @@
 		<meta property="schema:genre">Science Fiction</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of short fiction by Clifford D. Simak, ordered by date of original publication.</dc:abstract>
+		<meta property="schema:abstract">A collection of short fiction by Clifford D. Simak, ordered by date of original publication.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/clifford-d-simak"&gt;Clifford D. Simak&lt;/a&gt;, a prolific author of science fiction, wrote over 125 short stories. They often focus on the human scale more than the space opera scale, and are often tinged with horror. Included in this collection are stories of time travel, unreliable perceptions, and the difficulty in applying human understanding to different forms of life.&lt;/p&gt;
 			&lt;p&gt;The short stories in this collection are those currently known to have passed into the U.S. public domain, and are arranged in order of publication.&lt;/p&gt;
